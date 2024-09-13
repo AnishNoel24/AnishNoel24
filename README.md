@@ -12,12 +12,14 @@
 - 📫 How to reach me **anishrasquinha2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
 
 <div align="left">
  <a href="https://linkedin.com/in/anishnoel" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a>
  <a href="https://www.leetcode.com/anishrasquinha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishrasquinha2" height="30" width="40" /></a>
 </div>
 
+</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
